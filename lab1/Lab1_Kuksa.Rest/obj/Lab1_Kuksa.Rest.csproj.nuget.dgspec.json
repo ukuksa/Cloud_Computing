@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Git\\Cloud_Computing\\lab1\\Lab1_Kuksa.Rest\\Lab1_Kuksa.Rest.csproj": {}
+    "C:\\xampp\\htdocs\\Git\\Cloud_Computing\\lab1\\lab1_Kuksa.Rest\\lab1_Kuksa.Rest.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Git\\Cloud_Computing\\lab1\\Lab1_Kuksa.Rest\\Lab1_Kuksa.Rest.csproj": {
+    "C:\\xampp\\htdocs\\Git\\Cloud_Computing\\lab1\\lab1_Kuksa.Rest\\lab1_Kuksa.Rest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Git\\Cloud_Computing\\lab1\\Lab1_Kuksa.Rest\\Lab1_Kuksa.Rest.csproj",
-        "projectName": "Lab1_Kuksa.Rest",
-        "projectPath": "C:\\xampp\\htdocs\\Git\\Cloud_Computing\\lab1\\Lab1_Kuksa.Rest\\Lab1_Kuksa.Rest.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Git\\Cloud_Computing\\lab1\\lab1_Kuksa.Rest\\lab1_Kuksa.Rest.csproj",
+        "projectName": "lab1_Kuksa.Rest",
+        "projectPath": "C:\\xampp\\htdocs\\Git\\Cloud_Computing\\lab1\\lab1_Kuksa.Rest\\lab1_Kuksa.Rest.csproj",
         "packagesPath": "C:\\Users\\renjo\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Git\\Cloud_Computing\\lab1\\Lab1_Kuksa.Rest\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Git\\Cloud_Computing\\lab1\\lab1_Kuksa.Rest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -44,9 +44,33 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Swashbuckle.AspNetCore": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
