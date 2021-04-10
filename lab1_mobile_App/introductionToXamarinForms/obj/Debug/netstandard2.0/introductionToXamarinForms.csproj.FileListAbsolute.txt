@@ -1,0 +1,13 @@
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/bin/Debug/netstandard2.0/introductionToXamarinForms.deps.json
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/bin/Debug/netstandard2.0/introductionToXamarinForms.dll
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/bin/Debug/netstandard2.0/ref/introductionToXamarinForms.dll
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/bin/Debug/netstandard2.0/introductionToXamarinForms.pdb
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/obj/Debug/netstandard2.0/introductionToXamarinForms.csprojAssemblyReference.cache
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/obj/Debug/netstandard2.0/introductionToXamarinForms.AssemblyInfoInputs.cache
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/obj/Debug/netstandard2.0/introductionToXamarinForms.AssemblyInfo.cs
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/obj/Debug/netstandard2.0/introductionToXamarinForms.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/obj/Debug/netstandard2.0/introductionToXamarinForms.dll
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/obj/Debug/netstandard2.0/ref/introductionToXamarinForms.dll
+/Users/admin/Projects/introductionToXamarinForms/introductionToXamarinForms/obj/Debug/netstandard2.0/introductionToXamarinForms.pdb
