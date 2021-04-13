@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "82CL8RaQVRWAqQYGJe54XDa4FlTWM0VWhwtrp6pJslqhjuSF8sif2iHVzQSGi0RXUiIWHu4TTecXzZ1vhh2ygg==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Projects/Cloud_Computing/lab3_mobile_app/Xamarin/XamarinLab3/XamarinLab3.iOS/XamarinLab3.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
+    "/Users/admin/.nuget/packages/plugin.permissions/3.0.0.12/plugin.permissions.3.0.0.12.nupkg.sha512",
+    "/Users/admin/.nuget/packages/restease/1.5.4/restease.1.5.4.nupkg.sha512",
+    "/Users/admin/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/xam.plugin.media/4.0.1.5/xam.plugin.media.4.0.1.5.nupkg.sha512",
+    "/Users/admin/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/admin/.nuget/packages/xamarin.forms/4.4.0.991265/xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

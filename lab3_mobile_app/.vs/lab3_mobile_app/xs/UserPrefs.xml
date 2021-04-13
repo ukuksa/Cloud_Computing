@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{D4EDDC6B-2A1C-48DA-983A-6141509345CE}|Default">
+  <MonoDevelop.Ide.ItemProperties.lab3__mobile__app.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.lab3__mobile__app.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab3_mobile_app" expanded="True" selected="True">
+            <Node name="lab3_mobile_app" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.lab3__mobile__app FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
