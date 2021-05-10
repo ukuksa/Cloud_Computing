@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YotdvFsmlT5APKJ7eUztrnVr4Uw/gLi3e+npaCdKKeAnM9/Ds0NEMlrDcjVKEBCd2VD8akMHvbM5k1zhYXjb0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blablacar\\source\\repos\\ChatApp\\ChatApp\\ChatApp.DTO\\ChatApp.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blablacar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\blablacar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
